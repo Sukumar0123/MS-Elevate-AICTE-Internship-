@@ -2,11 +2,17 @@
 
 
 Student Performance Analysis Dashboard
+
+
 Project Overview
+
+
 The Student Performance Analysis Dashboard is a data visualization project designed to analyze and present student academic performance using interactive charts and graphs. The goal of this project is to transform raw student data into meaningful insights that help educators understand performance patterns and make informed academic decisions.
 The dashboard provides a clear visual representation of student scores in different subjects such as mathematics, reading, and writing. It also allows comparisons based on categories like gender, ethnicity, and parental education level.
 ________________________________________
 Objectives
+
+
 The main objectives of this project are:
 •	To analyze student academic performance using data visualization techniques.
 •	To provide an easy-to-understand dashboard for performance insights.
@@ -15,6 +21,8 @@ The main objectives of this project are:
 •	To support data-driven academic decision making.
 ________________________________________
 Dataset Description
+
+
 The dataset used in this project contains student academic performance information.
 Key attributes in the dataset include:
 •	Student ID
@@ -28,6 +36,8 @@ Key attributes in the dataset include:
 This dataset helps analyze how different factors influence student academic performance.
 ________________________________________
 Technology Stack
+
+
 The project uses the following technologies:
 Data Source
 •	Student Performance Dataset (Excel)
@@ -43,6 +53,8 @@ Visualization Components
 •	Comparison Charts
 ________________________________________
 System Development Process
+
+
 The project was developed using the following steps:
 1 Data Collection
 The student dataset was collected in Excel format.
@@ -56,6 +68,8 @@ An interactive dashboard was developed using Power BI to visualize the data.
 Charts and graphs were created to represent student performance in an understandable format.
 ________________________________________
 Dashboard Features
+
+
 The dashboard provides several insights into student performance.
 •	Total number of students
 •	Average mathematics score
@@ -68,6 +82,8 @@ The dashboard provides several insights into student performance.
 •	Identification of top performing students
 ________________________________________
 Results
+
+
 The dashboard successfully visualizes student performance data and provides useful insights.
 Key outcomes include:
 •	Clear understanding of student performance patterns
@@ -77,6 +93,8 @@ Key outcomes include:
 This helps educators make better academic decisions.
 ________________________________________
 Future Scope
+
+
 Future improvements for this project may include:
 •	Real-time student data integration
 •	AI-based performance prediction
@@ -85,6 +103,8 @@ Future improvements for this project may include:
 •	Advanced analytics for early identification of weak students
 ________________________________________
 References
+
+
 •	Microsoft Power BI Documentation
 •	Student Performance Dataset
 •	Data Visualization and Analytics Resources
